@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{749E1157-3BD9-471D-BA15-0D54A341C6CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContosoUniversity.Tests", "ContosoUniversity.Tests\ContosoUniversity.Tests.csproj", "{E1414856-FFAF-4220-BE34-D5FDF9EB5655}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{749E1157-3BD9-471D-BA15-0D54A341C6CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{749E1157-3BD9-471D-BA15-0D54A341C6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{749E1157-3BD9-471D-BA15-0D54A341C6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{749E1157-3BD9-471D-BA15-0D54A341C6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1414856-FFAF-4220-BE34-D5FDF9EB5655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1414856-FFAF-4220-BE34-D5FDF9EB5655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1414856-FFAF-4220-BE34-D5FDF9EB5655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1414856-FFAF-4220-BE34-D5FDF9EB5655}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
